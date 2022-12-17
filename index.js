@@ -7,8 +7,48 @@ const generateMarkdown = require("./utils/generateMarkdown");
 const questions = [
   {
     type: "input",
-    message: "what is your github username?",
+    message: "what is the title of your project?",
     name: "title",
+  },
+  {
+    type: "input",
+    message: "please enter a description of your project",
+    name: "description",
+  },
+  {
+    type: "input",
+    message: "installation instructions?",
+    name: "installation",
+  },
+  {
+    type: "input",
+    message: "usage information?",
+    name: "usage",
+  },
+  {
+    type: "input",
+    message: "who contibuted to this project?",
+    name: "contributing",
+  },
+  {
+    type: "checkbox",
+    choices: ["APM", "AUR license", "Bower", "Cocoapods", "Conda - License", "CPAN", "CRAN/METACRAN", "Crates.io", "CTAN", "DUB", "Eclipse Marketplace", "GitHub", "GitLab", "GitLab (self-managed)", "Greasy Fork", "Hex.pm", "NPM", "Ore License", "Packagist License", "Packagist License (custom server)", "PyPI - License", "REUSE Compliance", "Weblate component license"],
+    name: "license",
+  },
+  {
+    type: "input",
+    message: "tests?",
+    name: "tests",
+  },
+  {
+    type: "input",
+    message: "what is your github username?",
+    name: "username",
+  },
+  {
+    type: "input",
+    message: "what is your email address?",
+    name: "email",
   },
 ];
 
