@@ -31,8 +31,9 @@ const questions = [
     name: "contributing",
   },
   {
-    type: "checkbox",
-    choices: ['MIT', 'other', 'other'],
+    type: "list",
+    message: "please choose a license type",
+    choices: ["none", "MIT", "other"],
     name: "license",
   },
   {
