@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license !== "none") {
-    return `<img src="https://img.shields.io/badge/license-${license}-blue.svg">\n`;
+    return `<img src="https://img.shields.io/badge/license-${license}-green.svg">\n`;
   } else {
     return "";
   }
@@ -58,3 +58,5 @@ function generateMarkdown(data) {
 }
 
 module.exports = generateMarkdown;
+
+//TODO add screenshot section
