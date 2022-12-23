@@ -1,4 +1,5 @@
 # asdf
+  
   # Description 
   asdf
   # Table of Contents 
@@ -12,13 +13,17 @@
   asdf
   # Usage 
   asdf
-  # License
-  
   
   # Contributing 
-  asdf
+  aasdf
   # Tests 
-  
-  # Questions 
-  If you have please further questions please vist my [GitHub](https://github.com/) or contact me via email at
   asdf
+  # Questions 
+  For further information:
+ 
+  * GitHub:
+    * [https://github.com/asdf](https://github.com/asdf)
+ 
+  * Email:
+    * asdf
+
