@@ -1,29 +1,36 @@
-# asdf
+# README GENERATOR
   
   # Description 
-  asdf
+  This application conveniently creates professional README files for projects
   # Table of Contents 
   * [Installation](#installation)
   * [Usage](#usage)
-  
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
   # Installation 
-  asdf
+  The application must be downloaded onto the users computer so it can then be accessed via the terminal
   # Usage 
-  asdf
-  
+  Using the command terminal, the user is guided through a series of questions about their project.  Their responses are then automatically added to a new README.md file using Markdown
   # Contributing 
-  aasdf
+  William George Thomas
   # Tests 
-  asdf
+  None at present time
   # Questions 
   For further information:
  
   * GitHub:
-    * [https://github.com/asdf](https://github.com/asdf)
+    * [https://github.com/WilliamGeorgeThomas](https://github.com/WilliamGeorgeThomas)
  
   * Email:
-    * asdf
+    * williamgeorgethomas@gmail.com
+
+# Demo
+
+[Link to demo video](https://drive.google.com/file/d/1aQ5rMoCoSrAPRxe6uDjTbOwM_MaORt0q/view?usp=sharing)
+
+# Screenshot
+
+![screenshot of terminal questions and example responses](./utils/img/Screenshot%202022-12-23%20172901.png)
+
 

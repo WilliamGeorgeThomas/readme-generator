@@ -25,6 +25,10 @@
   * Email:
     * williamgeorgethomas@gmail.com
 
+# Demo
+
+[Link to demo video](https://drive.google.com/file/d/1aQ5rMoCoSrAPRxe6uDjTbOwM_MaORt0q/view?usp=sharing)
+
 # Screenshot
 
 ![screenshot of terminal questions and example responses](./utils/img/Screenshot%202022-12-23%20172901.png)
