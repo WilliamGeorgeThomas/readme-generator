@@ -33,4 +33,3 @@
 
 ![screenshot of terminal questions and example responses](./utils/img/Screenshot%202022-12-23%20172901.png)
 
-
